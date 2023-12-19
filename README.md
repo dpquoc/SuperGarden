@@ -1,5 +1,5 @@
 # SuperGarden
-This is the final project code for the DACN course.
+This is the final project code for the DADN course.
 
 ## Team project
 
